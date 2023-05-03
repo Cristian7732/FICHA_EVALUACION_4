@@ -1,0 +1,93 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 2 may. 2023, 21:37:58
+    Author     : P3R3Z1T0
+*/
+
+body{
+    border: none;
+    margin: 0;
+    padding: 0;
+    background-color: #032340;
+}
+
+#header_1{
+    text-align: center;
+    background-color: #053868;
+    font-size: 30px;
+    height: 100px;
+    line-height: 100%;
+    font-family: cabrili, arial;
+    font-weight: bold;
+    color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+
+#logo_uninorte{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+}
+
+#bolita_amarilla{
+    display: block;
+    margin: 0 auto;
+    width: 250px;
+}
+
+#section_1{
+    margin-top: 75px;
+    border: 1px solid black;
+    margin-left: 35%;
+    margin-right: 35%;
+    background-color: white;
+    height: 500px;
+    overflow: auto;
+    border-radius: 5%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+
+
+#DATOS_PERSONALES{
+    text-align: center;
+    font-family: arial;
+    font-weight: bold;
+    color: #053868;
+}
+
+.Ingrese_Dato{
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    font-family: arial;
+    font-weight: bold;
+    color: #032340;
+}
+
+.inputs{
+    display: flex;
+    margin-left: 10%;
+    width: 80%;
+    margin-right: 10%;
+    height: 20px;
+   
+}
+
+#boton_para_mandar{
+    font-family: arial;
+    font-weight: bold;
+    color: white;
+    width: 25%;
+    margin-left: 37.5%;
+    margin-right: 37.5%;
+    cursor: pointer;
+    height: 30px;
+    background-color: #053868;
+    border: none;
+    
+}
